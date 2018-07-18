@@ -1,7 +1,7 @@
-#"软件与移动智能系统安全"暑期学校
+# "软件与移动智能系统安全"暑期学校
 `钱志云`  
 防火墙 APP hijacking TCP side channels
-##哲学
+## 哲学
 应对有敌意的攻击者  
 微博  
 Attacks: creative and focused  
