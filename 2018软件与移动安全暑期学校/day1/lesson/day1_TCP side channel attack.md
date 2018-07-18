@@ -8,9 +8,9 @@ Attacks: creative and focused
 Nature of security problems:games  
 Man-made roles,just different types of rules
 ## how to get into security area
-`1.`Operating system  
-`2.`do a project  
-`3.`read books  
+`1.Operating system`  
+`2.do a project`  
+`3.read books`  
 ## TCP的厄运，网络协议侧信道分析
 Vuluerability discovery and exploitation techniques  
 Side channels analysis  
